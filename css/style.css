@@ -1,0 +1,80 @@
+.container{
+    margin: auto;
+    width: 80%;
+}
+#ip{
+    text-align: center;
+    font-size: 30px;
+    color: #000;
+}
+#dangote{
+   margin-left: 200px;
+   font-size: 20px;
+   width: 30%;
+   background: #000;
+   color: #fff;
+   height: 50px;
+   border: none;
+   border-radius: 30px;
+   margin-bottom: 30px;
+}
+#dangote:hover{
+    color: blue;
+    font-weight: bold;
+}
+#avatar{
+    margin-top: 80px;
+    width: 40%;
+}
+
+#avatar1{
+    margin-top: 80px;
+    width: 40%;
+}
+
+#avatar2{
+    margin-top: 80px;
+    width: 40%;
+}
+
+#avatar3{
+    margin-top: 80px;
+    width: 40%;
+}
+body{
+    background: rgb(70, 170, 209);
+}
+#main{
+    background: #ddd;
+    font-size: 20px;
+    line-height: 1.5;
+    width: 100%;
+}
+
+#end{
+    background: rgb(70, 170, 209);
+    font-size: 20px;
+    line-height: 1.5;
+    width: 100%;
+}
+
+
+#endless{
+    background: #35424e;
+    font-size: 20px;
+    line-height: 1.5;
+    width: 100%;
+}
+
+#endless2{
+    background: #eeede8;
+    font-size: 20px;
+    line-height: 1.5;
+    width: 100%;
+}
+
+.section{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
